@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dzxdxt
+- 👋 Hi, I’m @戴振熙
 - 👀 I’m interested in ...武汉工商学院
 - 🌱 I’m currently learning ...c语言
 - 💞️ I’m looking to collaborate on ...
