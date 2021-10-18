@@ -1,0 +1,21 @@
+//枚举常量
+//枚举一一列举
+//性别：男，女，保密
+//三原色：红，黄，蓝
+//星期：1，2，3，4，5，6，7
+//枚举关键-enum
+#include<stdio.h>
+enum Sex
+{
+	MALE,
+	FEMALE,
+	SECRET
+
+};
+int main()
+{
+	printf("%d\n,MALE");
+	printf("%d\n,FEMALE");
+	printf("%d\n,SECRET");
+	return 0;
+}
