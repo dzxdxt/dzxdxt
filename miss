@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()//主函数-程序的入口
+{
+	printf("戴心婷我有点想你了，其实不止一点，其实也不止今天。\n");
+		return 0;
+}
