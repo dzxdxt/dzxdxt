@@ -1,0 +1,4 @@
+int main(){
+	printf("(are you ok \?\?)\n");/*??)--三字母词*/
+	return 0;
+}
