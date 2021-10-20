@@ -1,0 +1,13 @@
+int main(){
+	/*数据在计算机上存储的时候，存储的是2进制。
+    #av$
+    a-97
+	A-65
+	ASCII编码*/
+
+	char arr1[] = "abc";
+	char arr2[] = { 'a', 'b', 'c', };
+	printf("%d\n",strlen(arr1) );/*strlen-stringlength-计算字符长度*/
+	printf("%d\n", strlen(arr2));
+	return 0;
+}
