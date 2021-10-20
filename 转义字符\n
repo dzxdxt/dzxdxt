@@ -1,0 +1,7 @@
+//转义字符
+//转变原来的意思
+int main()
+{
+	printf("abc\n");
+	return 0;
+}
