@@ -1,0 +1,4 @@
+int main(){
+	printf("c:\test32\test.c");/*\t水平制表符*/
+	return 0;
+}
